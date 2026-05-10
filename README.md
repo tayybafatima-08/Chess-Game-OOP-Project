@@ -267,11 +267,11 @@ This project was developed as a group effort for CS1004 at FAST-NU.
 
 <div align="center">
 
-| Name | Role | GitHub |
+**| Name | GitHub |**
 |:-:|:-:|:-:|
-| _Your Name_ | _e.g., Lead Developer — Piece classes & game logic_ | [@your-username](https://github.com/your-username) |
-| _Member 2_ | _e.g., Board class & rendering_ | [@member2-username](https://github.com/member2-username) |
-| _Member 3_ | _e.g., Game class & input handling_ | [@member3-username](https://github.com/member3-username) |
+| Tayyba Fatima | [@your-username](https://github.com/tayybafatima-08) |
+| Merub Awan | [@member2-username](https://github.com/M25rub) |
+| Kiran Shahid | [@member3-username](https://github.com/kir09an) |
 
 </div>
 
