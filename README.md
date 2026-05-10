@@ -4,7 +4,7 @@
 
 ### A two-player chess game built in modern C++ with SFML
 
-**An object-oriented chess engine featuring a hand-crafted marble board, Unicode chess pieces with drop shadows, and gold selection highlights — built from the ground up to demonstrate the core principles of object-oriented programming.**
+**An object-oriented chess engine featuring a hand-crafted marble board, Unicode chess pieces with drop shadows, and gold selection highlights, built from the ground up to demonstrate the core principles of object-oriented programming.**
 
 [![C++17](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![SFML](https://img.shields.io/badge/SFML-3.0-8CC445?style=for-the-badge&logo=sfml&logoColor=white)](https://www.sfml-dev.org/)
@@ -33,7 +33,7 @@
 
 **Marble Chess** is a fully-graphical two-player chess game implemented as a semester project for **CS1004 — Object Oriented Programming** at FAST National University.
 
-Rather than relying on external chess libraries, every piece, rule, and visual element was built from scratch — the goal was not to make the world's best chess engine, but to demonstrate clean, idiomatic OOP design through a project everyone understands.
+Rather than relying on external chess libraries, every piece, rule, and visual element was built from scratch, the goal was not to make the world's best chess engine, but to demonstrate clean, idiomatic OOP design through a project everyone understands.
 
 The result is a polished desktop application where two players can play classic chess on the same machine, with smooth mouse-based interaction and an aesthetic that resembles a real marble chessboard.
 
@@ -82,7 +82,7 @@ The result is a polished desktop application where two players can play classic 
 
 ## OOP Concepts Demonstrated
 
-This project was designed to teach — and showcase — every major OOP concept covered in CS1004.
+This project was designed to showcase every major OOP concept covered in CS1004.
 
 | Concept | Where It Lives | What It Looks Like |
 |---|---|---|
