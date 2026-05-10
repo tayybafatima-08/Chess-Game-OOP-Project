@@ -255,8 +255,6 @@ Chess-CPP-SFML-OOP/
 └── 📜 README.md          # You are here!
 ```
 
-**Total:** ~800 lines of clean, readable C++ — split into 7 focused files.
-
 ---
 
 ## 👥 Contributors
