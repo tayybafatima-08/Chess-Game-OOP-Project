@@ -267,8 +267,6 @@ This project was developed as a group effort for CS1004 at FAST-NU.
 
 <div align="left">
 
-**| Name       | GitHub |**
-
 
 | Tayyba Fatima | [@tayybafatima-08](https://github.com/tayybafatima-08) |
 
