@@ -26,7 +26,6 @@
 - [How to Play](#-how-to-play)
 - [Project Structure](#-project-structure)
 - [Contributors](#-contributors)
-- [Acknowledgments](#-acknowledgments)
 
 ---
 
