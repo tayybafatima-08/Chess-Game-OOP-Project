@@ -25,7 +25,6 @@
 - [Build & Run](#%EF%B8%8F-build--run)
 - [How to Play](#-how-to-play)
 - [Project Structure](#-project-structure)
-- [Future Enhancements](#-future-enhancements)
 - [Contributors](#-contributors)
 - [Acknowledgments](#-acknowledgments)
 
