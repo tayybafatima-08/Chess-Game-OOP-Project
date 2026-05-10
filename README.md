@@ -222,17 +222,6 @@ Every concrete piece overrides `isValidMove()` with its own movement rule, and `
 
 </details>
 
-### Linux Build (Bonus)
-
-```bash
-sudo apt install libsfml-dev    # Make sure this gives you SFML 3+
-g++ -std=c++17 main.cpp Piece.cpp Board.cpp Game.cpp \
-    -o chess -lsfml-graphics -lsfml-window -lsfml-system
-./chess
-```
-
----
-
 ## 🎮 How to Play
 
 1. **White moves first.** A turn indicator isn't necessary — there's only one set of pieces you can pick up at a time.
@@ -273,24 +262,6 @@ Chess-CPP-SFML-OOP/
 
 ---
 
-## 🚀 Future Enhancements
-
-The current implementation focuses on demonstrating OOP fundamentals with a polished UX. Natural next steps would include:
-
-- ♛ **Pawn promotion** — auto-promote pawns reaching the back rank to Queens
-- ⚔️ **Check & Checkmate detection** — proper end-game logic instead of King capture
-- 🏰 **Castling** — special King + Rook move
-- 🎯 **En passant** — diagonal pawn capture rule
-- ⏸️ **Stalemate & draw conditions** — fifty-move rule, threefold repetition
-- 💾 **Save/load games** — serialize the board state to a file
-- 🤖 **Single-player vs AI** — add a simple Minimax-based opponent
-- 🎵 **Sound effects** — piece-move and capture audio
-- 📜 **Move history panel** — algebraic notation log on the side
-
-Each of these would build directly on the existing OOP foundation without restructuring the codebase.
-
----
-
 ## 👥 Contributors
 
 This project was developed as a group effort for CS1004 at FAST-NU.
@@ -307,21 +278,9 @@ This project was developed as a group effort for CS1004 at FAST-NU.
 
 > _Replace these with your actual group members and their respective contributions._
 
----
-
-## 🙏 Acknowledgments
-
-- **Instructor:** _Rizwan Ul Haq_ — for the project guidance and the CS1004 OOP curriculum
-- **SFML team** — for the wonderfully simple multimedia library that made the graphics painless
-- **Robert Lafore & Bjarne Stroustrup** — whose textbooks shaped the design choices throughout
-- **The Unicode Consortium** — for blessing us with proper chess glyphs in the standard
-
----
 
 <div align="center">
 
-### ⭐ If you found this project helpful, please consider giving it a star!
-
-**Built with ♥ at FAST National University — Faisalabad-Chiniot Campus**
+**FAST National University Of Computer And Emerging Sciences — Faisalabad-Chiniot Campus**
 
 </div>
