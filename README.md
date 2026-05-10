@@ -267,14 +267,14 @@ This project was developed as a group effort for CS1004 at FAST-NU.
 
 <div align="left">
 
-**| Name | GitHub |**
+**| Name       | GitHub |**
 
 
-| Tayyba Fatima | [@your-username](https://github.com/tayybafatima-08) |
+| Tayyba Fatima | [@tayybafatima-08](https://github.com/tayybafatima-08) |
 
-| Merub Awan | [@member2-username](https://github.com/M25rub) |
+| Merub Awan | [@M25rub](https://github.com/M25rub) |
 
-| Kiran Shahid | [@member3-username](https://github.com/kir09an) |
+| Kiran Shahid | [@kir09an](https://github.com/kir09an) |
 
 </div>
 
