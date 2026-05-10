@@ -276,7 +276,6 @@ This project was developed as a group effort for CS1004 at FAST-NU.
 
 </div>
 
-> _Replace these with your actual group members and their respective contributions._
 
 
 <div align="center">
