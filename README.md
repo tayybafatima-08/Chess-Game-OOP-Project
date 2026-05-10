@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -29,7 +29,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **Marble Chess** is a fully-graphical two-player chess game implemented as a semester project for **CS1004 — Object Oriented Programming** at FAST National University.
 
@@ -39,7 +39,7 @@ The result is a polished desktop application where two players can play classic 
 
 ---
 
-## ✨ Features
+## Features
 
 ### Gameplay
 - Full implementation of standard piece movement (Pawn, Rook, Knight, Bishop, Queen, King)
@@ -65,7 +65,7 @@ The result is a polished desktop application where two players can play classic 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > _Add your gameplay screenshots in a `screenshots/` folder and reference them here._
 
@@ -80,7 +80,7 @@ The result is a polished desktop application where two players can play classic 
 
 ---
 
-## 🧬 OOP Concepts Demonstrated
+## OOP Concepts Demonstrated
 
 This project was designed to teach — and showcase — every major OOP concept covered in CS1004.
 
@@ -102,7 +102,7 @@ This project was designed to teach — and showcase — every major OOP concept 
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 The codebase is split into three logical modules, each with its own header and implementation file:
 
@@ -142,7 +142,7 @@ This layered architecture ensures **separation of concerns** — each module has
 
 ---
 
-## 🌳 Class Hierarchy
+## Class Hierarchy
 
 ```
                         ┌─────────────┐
@@ -165,7 +165,7 @@ Every concrete piece overrides `isValidMove()` with its own movement rule, and `
 
 ---
 
-## 🛠️ Build & Run
+## Build & Run
 
 ### Prerequisites
 
@@ -219,7 +219,7 @@ Every concrete piece overrides `isValidMove()` with its own movement rule, and `
 
 </details>
 
-## 🎮 How to Play
+## How to Play
 
 1. **White moves first.** A turn indicator isn't necessary — there's only one set of pieces you can pick up at a time.
 2. **Click any of your pieces.** A gold ring appears around it to confirm selection.
@@ -233,12 +233,12 @@ Every concrete piece overrides `isValidMove()` with its own movement rule, and `
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-Chess-CPP-SFML-OOP/
+Chess-CPP-OOP/
 │
-├── 📜 main.cpp           # Program entry point (13 lines)
+├── 📜 main.cpp           # Program entry point
 │
 ├── 📜 Piece.h            # Piece base class + 6 derived classes (declarations)
 ├── 📜 Piece.cpp          # Piece implementations + helper functions
@@ -250,12 +250,12 @@ Chess-CPP-SFML-OOP/
 ├── 📜 Game.cpp           # Game class implementation
 │
 ├── 📁 screenshots/       # Gameplay screenshots for README
-└── 📜 README.md          # You are here!
+└── 📜 README.md          
 ```
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 This project was developed as a group effort for CS1004 at FAST-NU.
 
