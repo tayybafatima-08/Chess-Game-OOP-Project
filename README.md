@@ -42,26 +42,26 @@ The result is a polished desktop application where two players can play classic 
 ## ✨ Features
 
 ### Gameplay
-- ♟️ Full implementation of standard piece movement (Pawn, Rook, Knight, Bishop, Queen, King)
-- 🎯 Move validation — illegal moves are silently rejected
-- 🚫 Path-blocking detection for sliding pieces (Rook, Bishop, Queen)
-- 🛡️ Friendly-fire prevention — you cannot capture your own pieces
-- 🏆 Win detection via King capture, with elegant overlay
-- 🔄 Strict turn alternation (White → Black → White)
+- Full implementation of standard piece movement (Pawn, Rook, Knight, Bishop, Queen, King)
+- Move validation — illegal moves are silently rejected
+- Path-blocking detection for sliding pieces (Rook, Bishop, Queen)
+- Friendly-fire prevention — you cannot capture your own pieces
+- Win detection via King capture, with elegant overlay
+- Strict turn alternation (White → Black → White)
 
 ### Visuals
-- 🎨 **Marble board** with cream and walnut squares, accented with subtle white-light shine
-- ♛ **True chess pieces** rendered as Unicode glyphs from the system font (no image files needed)
-- 💎 **Layered rendering** — every piece has a soft drop shadow and a contrasting outline for depth
-- 🟡 **Gold selection ring** that highlights the chosen piece without disrupting the board's mood
-- 🏁 **Cinematic winner overlay** — the screen dims and a large gold "WHITE/BLACK WINS" banner appears
+- **Marble board** with cream and walnut squares, accented with subtle white-light shine
+- **True chess pieces** rendered as Unicode glyphs from the system font (no image files needed)
+- **Layered rendering** — every piece has a soft drop shadow and a contrasting outline for depth
+- **Gold selection ring** that highlights the chosen piece without disrupting the board's mood
+- **Cinematic winner overlay** — the screen dims and a large gold "WHITE/BLACK WINS" banner appears
 
 ### Code Quality
-- 🏗️ Proper **modular 3-file structure** (one header + implementation per logical module)
-- 🔒 Strict **encapsulation** with private data and public accessors
-- 🌳 Clean **inheritance hierarchy** rooted at the abstract `Piece` class
-- 🎭 Genuine **runtime polymorphism** via pure virtual functions
-- 🧹 Proper **resource management** — every `new` has a matching `delete`
+- Proper **modular 3-file structure** (one header + implementation per logical module)
+- Strict **encapsulation** with private data and public accessors
+- Clean **inheritance hierarchy** rooted at the abstract `Piece` class
+- Genuine **runtime polymorphism** via pure virtual functions
+- Proper **resource management** — every `new` has a matching `delete`
 
 ---
 
@@ -250,8 +250,6 @@ Chess-CPP-SFML-OOP/
 ├── 📜 Game.cpp           # Game class implementation
 │
 ├── 📁 screenshots/       # Gameplay screenshots for README
-├── 📜 .gitignore         # Visual Studio + SFML build artifacts
-├── 📜 LICENSE            # MIT License
 └── 📜 README.md          # You are here!
 ```
 
